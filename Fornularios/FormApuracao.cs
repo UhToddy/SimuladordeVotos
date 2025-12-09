@@ -21,5 +21,10 @@ namespace SimuladorDeVotos.Fornularios
         {
 
         }
+
+        private void btSalvar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
