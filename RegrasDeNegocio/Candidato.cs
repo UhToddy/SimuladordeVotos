@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimuladorDeVotos.Regras
+namespace SimuladorDeVotos.RegrasDeNegocio
 {
     public class Candidato
     {

@@ -50,7 +50,7 @@
             this.btCadrasto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.btCadrasto.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btCadrasto.Location = new System.Drawing.Point(148, 109);
-            this.btCadrasto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btCadrasto.Margin = new System.Windows.Forms.Padding(2);
             this.btCadrasto.Name = "btCadrasto";
             this.btCadrasto.Size = new System.Drawing.Size(271, 41);
             this.btCadrasto.TabIndex = 1;
@@ -63,19 +63,20 @@
             this.btVotacaoIntera.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btVotacaoIntera.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btVotacaoIntera.Location = new System.Drawing.Point(148, 168);
-            this.btVotacaoIntera.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btVotacaoIntera.Margin = new System.Windows.Forms.Padding(2);
             this.btVotacaoIntera.Name = "btVotacaoIntera";
             this.btVotacaoIntera.Size = new System.Drawing.Size(271, 41);
             this.btVotacaoIntera.TabIndex = 2;
             this.btVotacaoIntera.Text = "VOTAÇÃO INTERATIVA";
             this.btVotacaoIntera.UseVisualStyleBackColor = false;
+            this.btVotacaoIntera.Click += new System.EventHandler(this.btVotacaoIntera_Click);
             // 
             // btApuracao
             // 
             this.btApuracao.BackColor = System.Drawing.Color.Green;
             this.btApuracao.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btApuracao.Location = new System.Drawing.Point(148, 240);
-            this.btApuracao.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btApuracao.Margin = new System.Windows.Forms.Padding(2);
             this.btApuracao.Name = "btApuracao";
             this.btApuracao.Size = new System.Drawing.Size(271, 41);
             this.btApuracao.TabIndex = 3;
@@ -91,7 +92,7 @@
             this.Controls.Add(this.btVotacaoIntera);
             this.Controls.Add(this.btCadrasto);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

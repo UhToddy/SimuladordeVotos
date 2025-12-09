@@ -25,5 +25,12 @@ namespace SimuladorDeVotos
             form.ShowDialog();
 
         }
+
+        private void btVotacaoIntera_Click(object sender, EventArgs e)
+        {
+            FormVotacao form = new FormVotacao();
+            form.ShowDialog();
+
+        }
     }
 }

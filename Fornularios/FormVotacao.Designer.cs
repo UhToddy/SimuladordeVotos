@@ -45,7 +45,7 @@
             this.txtNumEscolhido = new System.Windows.Forms.TextBox();
             this.txtPartido = new System.Windows.Forms.TextBox();
             this.btApurar = new System.Windows.Forms.Button();
-            this.label10 = new System.Windows.Forms.Label();
+            this.lbSucesso = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dtgCandidatos)).BeginInit();
             this.SuspendLayout();
@@ -61,6 +61,7 @@
             this.btConfirmar.TabIndex = 21;
             this.btConfirmar.Text = "CONFIRMAR";
             this.btConfirmar.UseVisualStyleBackColor = false;
+            this.btConfirmar.Click += new System.EventHandler(this.btConfirmar_Click);
             // 
             // btCancelar
             // 
@@ -139,10 +140,11 @@
             // dtgCandidatos
             // 
             this.dtgCandidatos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtgCandidatos.Location = new System.Drawing.Point(40, 172);
+            this.dtgCandidatos.Location = new System.Drawing.Point(38, 172);
             this.dtgCandidatos.Name = "dtgCandidatos";
             this.dtgCandidatos.Size = new System.Drawing.Size(426, 376);
             this.dtgCandidatos.TabIndex = 22;
+            this.dtgCandidatos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgCandidatos_CellContentClick);
             // 
             // txtNomeEscolhido
             // 
@@ -231,16 +233,16 @@
             this.btApurar.Text = "APURAR";
             this.btApurar.UseVisualStyleBackColor = false;
             // 
-            // label10
+            // lbSucesso
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(484, 340);
-            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(402, 25);
-            this.label10.TabIndex = 30;
-            this.label10.Text = "VOTO COMPUTADO COM SUCESSO";
+            this.lbSucesso.AutoSize = true;
+            this.lbSucesso.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbSucesso.Location = new System.Drawing.Point(484, 340);
+            this.lbSucesso.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbSucesso.Name = "lbSucesso";
+            this.lbSucesso.Size = new System.Drawing.Size(402, 25);
+            this.lbSucesso.TabIndex = 30;
+            this.lbSucesso.Text = "VOTO COMPUTADO COM SUCESSO";
             // 
             // label11
             // 
@@ -258,7 +260,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(945, 588);
             this.Controls.Add(this.label11);
-            this.Controls.Add(this.label10);
+            this.Controls.Add(this.lbSucesso);
             this.Controls.Add(this.btApurar);
             this.Controls.Add(this.txtPartido);
             this.Controls.Add(this.label9);
@@ -303,7 +305,7 @@
         private System.Windows.Forms.TextBox txtNumEscolhido;
         private System.Windows.Forms.TextBox txtPartido;
         private System.Windows.Forms.Button btApurar;
-        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label lbSucesso;
         private System.Windows.Forms.Label label11;
     }
 }

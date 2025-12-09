@@ -20,3 +20,5 @@ C:\Users\mateu\OneDrive\Documentos\GitHub\SimuladorDeVotos\obj\Debug\SimuladorDe
 C:\Users\mateu\OneDrive\Documentos\GitHub\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.csproj.CoreCompileInputs.cache
 C:\Users\mateu\OneDrive\Documentos\GitHub\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.exe
 C:\Users\mateu\OneDrive\Documentos\GitHub\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.pdb
+C:\Users\mateu\OneDrive\Documentos\GitHub\SimuladordeVotos\obj\Debug\SimuladorDeVotos.Fornularios.FormApuracao.resources
+C:\Users\mateu\OneDrive\Documentos\GitHub\SimuladordeVotos\obj\Debug\SimuladorDeVotos.Fornularios.FormVotacao.resources
