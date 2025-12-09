@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Fornularios\FormApuracao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fornularios\FormApuracao.Designer.cs">
+      <DependentUpon>FormApuracao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fornularios\FormVotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fornularios\FormVotacao.Designer.cs">
+      <DependentUpon>FormVotacao.cs</DependentUpon>
+    </Compile>
     <Compile Include="Fornularios\FormCadastroCandidatos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,8 +75,14 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Fornularios\FormApuracao.resx">
+      <DependentUpon>FormApuracao.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Fornularios\FormCadastroCandidatos.resx">
       <DependentUpon>FormCadastroCandidatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fornularios\FormVotacao.resx">
+      <DependentUpon>FormVotacao.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -87,6 +105,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Include="RegrasDeNegocio\Candidato.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
