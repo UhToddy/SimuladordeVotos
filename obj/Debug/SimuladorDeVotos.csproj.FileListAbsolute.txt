@@ -1,0 +1,11 @@
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\bin\Debug\SimuladorDeVotos.exe.config
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\bin\Debug\SimuladorDeVotos.exe
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\bin\Debug\SimuladorDeVotos.pdb
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.csproj.AssemblyReference.cache
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.Form1.resources
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.Fornularios.FormCadastroCandidatos.resources
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.Properties.Resources.resources
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.csproj.GenerateResource.cache
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.exe
+C:\Users\carla\OneDrive\algoritmo\Algoritmos II\Atividade Avaliativa\SimuladorDeVotos\obj\Debug\SimuladorDeVotos.pdb
