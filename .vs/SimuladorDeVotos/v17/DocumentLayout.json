@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\",
+  "WorkspaceRootPath": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\simuladordevotos\\fornularios\\formvotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formvotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\simuladordevotos\\fornularios\\formapuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\fornularios\\formapuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formapuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\fornularios\\formcadastrocandidatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formcadastrocandidatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\simuladordevotos\\fornularios\\formapuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formapuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\simuladordevotos\\fornularios\\formvotacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\fornularios\\formvotacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formvotacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\jhone\\documents\\github\\simuladordevotos\\fornularios\\formapuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formapuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\simuladordevotos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\fornularios\\formcadastrocandidatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formcadastrocandidatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\simuladordevotos\\regrasdenegocio\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\jhone\\documents\\github\\simuladordevotos\\fornularios\\formvotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formvotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\regrasdenegocio\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:regrasdenegocio\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\simuladordevotos\\regrasdenegocio\\candidato.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\regrasdenegocio\\candidato.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:regrasdenegocio\\candidato.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\fornularios\\formcadastrocandidatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\fornularios\\formcadastrocandidatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D17C83D-29BF-4909-A52A-82FEB0F594FD}|SimuladorDeVotos.csproj|solutionrelative:fornularios\\formcadastrocandidatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,41 +50,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "FormApuracao.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormApuracao.cs",
+              "RelativeDocumentMoniker": "Fornularios\\FormApuracao.cs",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormApuracao.cs",
+              "RelativeToolTip": "Fornularios\\FormApuracao.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T02:14:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormVotacao.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormVotacao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormVotacao.Designer.cs",
               "RelativeDocumentMoniker": "Fornularios\\FormVotacao.Designer.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormVotacao.Designer.cs",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormVotacao.Designer.cs",
               "RelativeToolTip": "Fornularios\\FormVotacao.Designer.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAIwG8AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T01:20:43.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormApuracao.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormApuracao.cs",
-              "RelativeDocumentMoniker": "Fornularios\\FormApuracao.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormApuracao.cs",
-              "RelativeToolTip": "Fornularios\\FormApuracao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T01:17:06.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormApuracao.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormApuracao.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormApuracao.cs",
               "RelativeDocumentMoniker": "Fornularios\\FormApuracao.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormApuracao.cs [Design]",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormApuracao.cs [Design]",
               "RelativeToolTip": "Fornularios\\FormApuracao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T01:13:10.489Z",
@@ -92,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FormVotacao.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormVotacao.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormVotacao.cs",
               "RelativeDocumentMoniker": "Fornularios\\FormVotacao.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormVotacao.cs [Design]",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormVotacao.cs [Design]",
               "RelativeToolTip": "Fornularios\\FormVotacao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T01:12:18.527Z",
@@ -104,13 +104,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Candidato.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\RegrasDeNegocio\\Candidato.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\RegrasDeNegocio\\Candidato.cs",
               "RelativeDocumentMoniker": "RegrasDeNegocio\\Candidato.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\RegrasDeNegocio\\Candidato.cs",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\RegrasDeNegocio\\Candidato.cs",
               "RelativeToolTip": "RegrasDeNegocio\\Candidato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T01:10:01.335Z",
               "EditorCaption": ""
@@ -119,9 +119,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Candidato.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\RegrasDeNegocio\\Candidato.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\RegrasDeNegocio\\Candidato.cs",
               "RelativeDocumentMoniker": "RegrasDeNegocio\\Candidato.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\RegrasDeNegocio\\Candidato.cs",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\RegrasDeNegocio\\Candidato.cs",
               "RelativeToolTip": "RegrasDeNegocio\\Candidato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FormCadastroCandidatos.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormCadastroCandidatos.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormCadastroCandidatos.cs",
               "RelativeDocumentMoniker": "Fornularios\\FormCadastroCandidatos.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormCadastroCandidatos.cs",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormCadastroCandidatos.cs",
               "RelativeToolTip": "Fornularios\\FormCadastroCandidatos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,24 +143,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Form1.cs",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T01:01:01.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T01:01:01.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FormCadastroCandidatos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormCadastroCandidatos.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormCadastroCandidatos.cs",
               "RelativeDocumentMoniker": "Fornularios\\FormCadastroCandidatos.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Fornularios\\FormCadastroCandidatos.cs [Design]",
+              "ToolTip": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Fornularios\\FormCadastroCandidatos.cs [Design]",
               "RelativeToolTip": "Fornularios\\FormCadastroCandidatos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T01:01:01.317Z",
@@ -168,15 +167,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jhone\\Documents\\GitHub\\SimuladordeVotos\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\mateu\\OneDrive\\Documentos\\GitHub\\SimuladorDeVotos\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T01:01:01.736Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-09T01:01:01.736Z"
             }
           ]
         }
